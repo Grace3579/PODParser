@@ -1,0 +1,8 @@
+C:\Projects\POD\obj\Debug\POD.exe
+C:\Projects\POD\obj\Debug\POD.pdb
+C:\Projects\POD\bin\Debug\POD.exe
+C:\Projects\POD\bin\Debug\POD.pdb
+C:\Projects\POD\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\POD\obj\Debug\POD.PhoneManager.resources
+C:\Projects\POD\obj\Debug\POD.PODMainForm.resources
+C:\Projects\POD\obj\Debug\POD.csproj.GenerateResource.Cache

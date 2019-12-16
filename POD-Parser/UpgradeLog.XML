@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="POD-2008">
+</Property><Property Name="Solution File" Value="D:\POD Documents\POD-VS2008-20120708\POD-2008.sln">
+</Property><Property Name="Date" Value="Wednesday, July 11, 2012">
+</Property><Property Name="Time" Value="21:44 PM">
+</Property></Properties><Event ErrorLevel="0" Project="PODManagerGUI" Source="PODManagerGUI\PODManagerGUI.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="PODManagerGUI" Source="PODManagerGUI\PODManagerGUI.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="PODBusinessObjects" Source="PODBusinessObjects\PODBusinessObjects.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="PODBusinessObjects" Source="PODBusinessObjects\PODBusinessObjects.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="PODUtils" Source="PODUtils\PODUtils.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="PODUtils" Source="PODUtils\PODUtils.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="2" Project="PODMessaging" Source="PODMessaging\PODMessaging.csproj" Description="Unable to open project file to perform upgrade.  ">
+</Event><Event ErrorLevel="0" Project="PODManager" Source="PODManager\PODManager.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="PODManager" Source="PODManager\PODManager.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="Permissions" Source="Permissions\Permissions.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Permissions" Source="Permissions\Permissions.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="POD-2008.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="POD-2008.sln" Description="Converted">
+</Event></UpgradeLog>

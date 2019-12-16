@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="POD">
+</Property><Property Name="Solution File" Value="C:\Projects\POD\POD.sln">
+</Property><Property Name="Date" Value="Saturday, October 22, 2011">
+</Property><Property Name="Time" Value="23:25 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="POD.sln" Description="File successfully backed up as C:\Projects\POD\Backup\POD.sln">
+</Event><Event ErrorLevel="0" Project="POD" Source="POD.csproj" Description="Project file successfully backed up as C:\Projects\POD\Backup\POD.csproj">
+</Event><Event ErrorLevel="0" Project="POD" Source="POD.csproj.user" Description="Project user file successfully backed up as C:\Projects\POD\Backup\POD.csproj.user">
+</Event><Event ErrorLevel="0" Project="POD" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Projects\POD\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="POD" Source="PhoneManager.cs" Description="File successfully backed up as C:\Projects\POD\Backup\PhoneManager.cs">
+</Event><Event ErrorLevel="0" Project="POD" Source="PODMainFrame.cs" Description="File successfully backed up as C:\Projects\POD\Backup\PODMainFrame.cs">
+</Event><Event ErrorLevel="0" Project="POD" Source="App.ico" Description="File successfully backed up as C:\Projects\POD\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="POD" Source="PhoneManager.resx" Description="File successfully backed up as C:\Projects\POD\Backup\PhoneManager.resx">
+</Event><Event ErrorLevel="0" Project="POD" Source="PODMainFrame.resx" Description="File successfully backed up as C:\Projects\POD\Backup\PODMainFrame.resx">
+</Event><Event ErrorLevel="0" Project="POD" Source="POD.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="POD" Source="POD.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="POD.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="POD.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="POD" Source="POD.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
