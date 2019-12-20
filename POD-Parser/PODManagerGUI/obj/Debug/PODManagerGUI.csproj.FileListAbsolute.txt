@@ -47,3 +47,4 @@ H:\H Drive Data\Gurminder Data\September 13 2012\POD-Parser\PODManagerGUI\obj\De
 H:\H Drive Data\Gurminder Data\September 13 2012\POD-Parser\PODManagerGUI\obj\Debug\POD.PODMainForm.resources
 H:\H Drive Data\Gurminder Data\September 13 2012\POD-Parser\PODManagerGUI\obj\Debug\POD.ShipmentAllocator.resources
 H:\H Drive Data\Gurminder Data\September 13 2012\POD-Parser\PODManagerGUI\obj\Debug\PODManagerGUI.csproj.GenerateResource.Cache
+H:\POD-2019\POD-Parser\PODManagerGUI\bin\Debug\POD.exe.config
